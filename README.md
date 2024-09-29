@@ -5,8 +5,8 @@ Luna é um assistente virtual desenvolvido em Python, capaz de interagir com o u
 - Pesquisa na web (Google, YouTube) com base em comandos de voz.
 - Resposta a perguntas simples com base em um conjunto de palavras-chave pré-definidas.
 # Como usar
-- Python 3.12
-- Bibliotecas/Importação
+- Python 3.12 (version)
+- Bibliotecas (import)
 ```
 import speech_recognition as sr
 import playsound
@@ -18,8 +18,13 @@ import os
 ```
 # Instalação
 ```
-#Bash
 git clone https://github.com/seu_usuario/Luna.git
 cd Luna
 pip install -r requirements.txt
 ```
+# Execução
+```
+python luna.py
+```
+# Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou um pull request.
