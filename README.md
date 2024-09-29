@@ -18,7 +18,7 @@ import os
 ```
 # Instalação
 ```
-git clone https://github.com/seu_usuario/Luna.git
+git clone https://github.com/kauanesv/Luna.git
 cd Luna
 pip install -r requirements.txt
 ```
