@@ -28,3 +28,5 @@ python luna.py
 ```
 # Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou um pull request.
+# Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
